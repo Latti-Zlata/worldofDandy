@@ -1,0 +1,55 @@
+body {
+  background-color: rgba(255, 128, 128, 1);
+  font-family: segoe print;
+}
+
+header {
+  background-color: rgba(139, 255, 145, 1);
+  text-align: center;
+}
+
+main h3 {
+  text-align: center;
+}
+
+header a {
+  color: rgba(77, 210, 74, 1);
+  text-shadow: 31px -21px 6px rgba(1, 85, 0, 1);
+}
+
+header a:hover {
+  color: rgba(1, 85, 0, 1);
+  text-shadow: 31px -21px 3px rgba(1, 85, 0, 1);
+  transition: 1s;
+}
+
+main p {
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+
+footer h5 {
+  color: rgba(254, 85, 85, 1);
+}
+
+footer h5:hover {
+  color: rgba(140, 0, 0, 1);
+  text-shadow: 31px -21px 3px rgba(1, 85, 0, 1);
+  transition: 1s;
+}
+
+#home {
+  background-color: rgba(146, 186, 255, 1);
+}
+
+#title1 {
+  background-color: rgba(146, 186, 255, 1);
+}
+
+#title2 {
+  background-color: rgba(146, 186, 255, 1);
+}
+
+#title3 {
+  background-color: rgba(146, 186, 255, 1);
+}
